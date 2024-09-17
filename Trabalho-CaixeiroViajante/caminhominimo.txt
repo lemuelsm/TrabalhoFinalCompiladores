@@ -1,0 +1,7 @@
+Melhor caminho (Forca Bruta):
+1 -> 4: 40.36 Km
+4 -> 2: 73.41 Km
+2 -> 5: 33.62 Km
+5 -> 3: 51.16 Km
+3 -> 1: 17.00 Km
+Distancia total: 215.54 Km
